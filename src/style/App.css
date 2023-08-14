@@ -1,0 +1,25 @@
+nav {
+  height: 50px;
+  transition: 1s all ease-in-out;
+  position: absolute;
+}
+
+nav header {
+  height: 50px;
+}
+
+nav i {
+  height: 50px;
+}
+
+nav aside a {
+  height: 50px;
+}
+
+nav .btns{
+  height: 50px;
+}
+
+.home{
+  height: calc(100vh - 50px);
+}
